@@ -15,3 +15,5 @@ comments. Be sure to read everything. Run lab2.js with `node lab2.js`.
 
 
 #### Resources and Collaborators
+Stackoverflow/google
+Books
